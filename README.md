@@ -10,10 +10,9 @@
 
 
 ## General info
-This is a collection of useful links to Gangstas trying to get into engineering.
+This is a collection of useful links for General Gee's trying to get into engineering.
 
-## Versioning
-Project is created with:
+## Versioning 
 * version: 0.1
 
 ## Links
