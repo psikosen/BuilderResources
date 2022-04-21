@@ -87,5 +87,3 @@ Websites
 * https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino
 * https://bytesnbits.co.uk/learn-to-make/arduino-tutorials/
 
-
-*
