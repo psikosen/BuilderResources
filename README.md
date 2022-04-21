@@ -13,12 +13,14 @@
 This is a collection of useful links for General Gee's trying to get into engineering.
 
 ## Versioning 
-* version: 0.1
+| version |
+| :--- | 
+| `$0.1` |
 
 ## Links
 ## Rasberry-Pi
 
-Websites
+* Websites
   * https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started		
   * https://hackr.io/tutorials/learn-raspberry-pi		
   * https://pimylifeup.com/raspberry-pi-index/		
@@ -38,14 +40,14 @@ Websites
   * https://www.youtube.com/watch?v=dUeQUCF6KPc
 ## STM32
 
-Websites
+* Websites
  * https://www.engineersgarage.com/stm32/		
  * https://www.teachmemicro.com/tutorials/stm32-tutorial/		
  * https://circuitdigest.com/stm32-projects-and-tutorials		
  * https://smartsolutions4home.com/how-to-program-stm32/		
  * https://www.electronicshub.org/program-stm32f103c8t6-using-keil-uvision/		
  * https://shawnhymel.com/1795/getting-started-with-stm32-nucleo-usb-virtual-com-port/		
-Videos
+* Videos
  * https://www.youtube.com/watch?v=Hffw-m9fuxc		
  * https://www.youtube.com/watch?v=XY4I0Nq6IGc		
  * https://www.youtube.com/watch?v=hYYRfhhvTYo&list=PLr0mEvO7yBe6Ga7wJpRTZpxAYSvgWY0A-		
@@ -54,7 +56,7 @@ Videos
  
 ## BreadBoards
 
-Websites
+* Websites
  * https://www.pinterest.com/kris_strawder/electronics-breadboard-projects-for-beginners/	
  * https://www.seeedstudio.com/blog/2020/01/06/how-to-use-a-breadboard-wiring-circuit-and-arduino-interfacing/	
  * https://magpi.raspberrypi.com/articles/breadboard-tutorial	
@@ -63,26 +65,25 @@ Websites
  * https://vakits.com/lm555-timer-project-kits-solderless-breadboards	
  * http://nbg-web01.opitec.com/img/118/381/118381be.pdf	
  * https://www.arduinointro.com/projects/learn-how-to-use-a-breadboard	
-Videos
+* Videos
  * https://youtu.be/W6mixXsn-Vc
 
 ## PCBS
-
-Websites
-* https://easypcbusa.com
-* https://www.cirexx.com/pcb-design-steps/
-* https://www.instructables.com/PCB-DesignTutorial-HowToDesign-Your-Own-PCBBoard/
-* https://learn.sparkfun.com/tutorials/pcb-basics/all
-* https://www.apogeeweb.net/electron/pcb-design-basics-wiring.html
-Video
-* https://youtu.be/35YuILUlfGs
+* Websites
+ * https://easypcbusa.com
+ * https://www.cirexx.com/pcb-design-steps/
+ * https://www.instructables.com/PCB-DesignTutorial-HowToDesign-Your-Own-PCBBoard/
+ * https://learn.sparkfun.com/tutorials/pcb-basics/all
+ * https://www.apogeeweb.net/electron/pcb-design-basics-wiring.html
+* Video
+ * https://youtu.be/35YuILUlfGs
 
 ## Adruino 
-Websites
-* https://www.makerspaces.com/15-simple-arduino-uno-breadboard-projects/
-* https://gitconnected.com/learn/arduino
-* https://www.pjrc.com/teensy/tutorial.html
-* https://circuitdigest.com/arduino-projects
-* https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino
-* https://bytesnbits.co.uk/learn-to-make/arduino-tutorials/
+* Websites
+ * https://www.makerspaces.com/15-simple-arduino-uno-breadboard-projects/
+ * https://gitconnected.com/learn/arduino
+ * https://www.pjrc.com/teensy/tutorial.html
+ * https://circuitdigest.com/arduino-projects
+ * https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino
+ * https://bytesnbits.co.uk/learn-to-make/arduino-tutorials/
 
