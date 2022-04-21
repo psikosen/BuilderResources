@@ -13,8 +13,9 @@ Project is created with:
 * version: 0.1
 
 ## Links
-Rasberry-Pi
- Websites
+## Rasberry-Pi
+
+Websites
   * https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started		
   * https://hackr.io/tutorials/learn-raspberry-pi		
   * https://pimylifeup.com/raspberry-pi-index/		
@@ -27,7 +28,7 @@ Rasberry-Pi
   * https://visualgdb.com/w/tutorials/category/tutorials/linux/raspberry_pi/page/2/		
   * https://www.jeremymorgan.com/tutorials		
   * https://notenoughtech.com/category/rpi-tutorial/
- Videos
+Videos
   * https://www.youtube.com/watch?v=B_8ZcPeaxcc		
   * https://revolutionpi.com/tutorials/video-tutorials/		
   * https://www.youtube.com/watch?v=ELznPFK1JJE		
