@@ -31,7 +31,7 @@ Websites
   * https://visualgdb.com/w/tutorials/category/tutorials/linux/raspberry_pi/page/2/		
   * https://www.jeremymorgan.com/tutorials		
   * https://notenoughtech.com/category/rpi-tutorial/
-Videos
+* Videos
   * https://www.youtube.com/watch?v=B_8ZcPeaxcc		
   * https://revolutionpi.com/tutorials/video-tutorials/		
   * https://www.youtube.com/watch?v=ELznPFK1JJE		
