@@ -7,7 +7,7 @@
 * [BreadBoards](#breadBoards)
 * [PCBS](#pcbs)
 * [Adruino](#adruino )
-* [AML-S905X-CC - Libre Computer] (#AML-S905X-CC)
+* [AML-S905X-CC - Libre Computer](#AML-S905X-CC)
 
 
 ## General info
