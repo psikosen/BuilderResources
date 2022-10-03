@@ -7,6 +7,7 @@
 * [BreadBoards](#breadBoards)
 * [PCBS](#pcbs)
 * [Adruino](#adruino )
+* [AML-S905X-CC - Libre Computer] (#AML-S905X-CC)
 
 
 ## General info
@@ -88,4 +89,11 @@ This is a collection of useful links for General Gee's trying to get into engine
   * https://circuitdigest.com/arduino-projects
   * https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino
   * https://bytesnbits.co.uk/learn-to-make/arduino-tutorials/
-
+  
+## AML-S905X-CC - Libre Computer 
+* Websites
+  * https://libre.computer/products/s905x/
+  * https://github.com/libre-computer-project
+  * https://www.armbian.com/lepotato/#kernels-archive-all
+  * https://support.endlessos.org/en/installation/aml_s905x_cc
+  
